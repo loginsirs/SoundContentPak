@@ -1,0 +1,9 @@
+{
+  "type": "code",
+  "modid": "sound",
+  "name": "lost land Pack",
+  "description": "Кастомный пак с музыкой для сервера lost land. Имеющий пару команд",
+  "version": "1.0.0",
+  "authors": [ "Logins" ],
+  "iconPath": "modicon.png"
+}

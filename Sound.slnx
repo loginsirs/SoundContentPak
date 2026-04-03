@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Sound/Sound/Sound.csproj" />
+  <Project Path="Sound/ZZCakeBuild/CakeBuild.csproj" />
+</Solution>

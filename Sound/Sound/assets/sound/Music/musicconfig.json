@@ -1,0 +1,319 @@
+{
+  "tracks": [
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 1",
+      "name": "Track 1",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 2",
+      "name": "Track 2",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 3",
+      "name": "Track 3",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 4",
+      "name": "Track 4",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 5",
+      "name": "Track 5",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 6",
+      "name": "Track 6",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 7",
+      "name": "Track 7",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 8",
+      "name": "Track 8",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 9",
+      "name": "Track 9",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 10",
+      "name": "Track 10",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 11",
+      "name": "Track 11",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 12",
+      "name": "Track 12",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 13",
+      "name": "Track 13",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 14",
+      "name": "Track 14",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 15",
+      "name": "Track 15",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 16",
+      "name": "Track 16",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 17",
+      "name": "Track 17",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 18",
+      "name": "Track 18",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "cave/track 19",
+      "name": "Track 19",
+      "onPlayList": "survival|creative",
+      "situation": "cave"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 20",
+      "name": "Track 20",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 21",
+      "name": "Track 21",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 22",
+      "name": "Track 22",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 23",
+      "name": "Track 23",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 24",
+      "name": "Track 24",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 25",
+      "name": "Track 25",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 26",
+      "name": "Track 26",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 27",
+      "name": "Track 27",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 28",
+      "name": "Track 28",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 29",
+      "name": "Track 29",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 30",
+      "name": "Track 30",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 31",
+      "name": "Track 31",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 32",
+      "name": "Track 32",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 33",
+      "name": "Track 33",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 34",
+      "name": "Track 34",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 35",
+      "name": "Track 35",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 36",
+      "name": "Track 36",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "calm/track 37",
+      "name": "Track 37",
+      "onPlayList": "survival|creative",
+      "situation": "calm"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 38",
+      "name": "Track 38",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "adventure/track 39",
+      "name": "Track 39",
+      "onPlayList": "survival|creative",
+      "situation": "adventure"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 40",
+      "name": "Track 40",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 41",
+      "name": "Track 41",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 42",
+      "name": "Track 42",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 43",
+      "name": "Track 43",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 44",
+      "name": "Track 44",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    },
+    {
+      "$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+      "file": "danger/track 45",
+      "name": "Track 45",
+      "onPlayList": "survival|creative",
+      "situation": "danger"
+    }
+  ]
+}
