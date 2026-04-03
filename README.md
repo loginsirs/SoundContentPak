@@ -6,4 +6,4 @@
 [En]
 A content pack specifically for the Lost Lands server, replacing the music from Vintage Story with music from Song Of Six by Jasinka
 
-Discord: https://discord.gg/VaeBzkn9
+Discord: https://discord.gg/YuQMNeWEH6
